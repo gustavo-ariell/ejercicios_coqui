@@ -97,9 +97,9 @@ Este repositorio tiene como finalidad:
 
 Los ejercicios pueden estar desarrollados en:
 
+- Python
 - Pseudocódigo
 - Diagramas de flujo
-- Python
 - Otro lenguaje utilizado en clase
 
 ---
