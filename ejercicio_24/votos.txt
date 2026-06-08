@@ -1,0 +1,50 @@
+Juan Perez,SI
+Maria Gomez,NO
+Carlos Lopez,SE ABSTUVO
+Ana Martinez,SI
+Luis Fernandez,NO
+Sofia Ramirez,SI
+Pedro Sanchez,SE ABSTUVO
+Lucia Torres,SI
+Miguel Diaz,NO
+Valentina Castro,SI
+Diego Romero,NO
+Camila Ruiz,SE ABSTUVO
+Javier Acosta,SI
+Florencia Benitez,NO
+Nicolas Herrera,SI
+Paula Medina,SE ABSTUVO
+Fernando Silva,SI
+Julieta Ortiz,NO
+Matias Vega,SI
+Daniela Rojas,SE ABSTUVO
+Gabriel Luna,SI
+Agustina Peralta,NO
+Ricardo Mendez,SI
+Carolina Gimenez,NO
+Ezequiel Navarro,SE ABSTUVO
+Micaela Cabrera,SI
+Alejandro Paredes,NO
+Brenda Ibarra,SI
+Gonzalo Molina,SE ABSTUVO
+Rocio Farias,SI
+Sebastian Aquino,NO
+Milagros Duarte,SI
+Cristian Villalba,SE ABSTUVO
+Antonella Sosa,SI
+Federico Leiva,NO
+Karen Ojeda,SI
+Hector Cardozo,NO
+Tamara Salinas,SE ABSTUVO
+Martin Escobar,SI
+Aldana Correa,NO
+Emiliano Godoy,SI
+Cecilia Franco,SE ABSTUVO
+Pablo Barreto,SI
+Daiana Vera,NO
+Kevin Almiron,SI
+Lorena Campos,SE ABSTUVO
+Nahuel Toledo,SI
+Yesica Ferreyra,NO
+Oscar Quiroga,SI
+Eliana Arce,SE ABSTUVO

@@ -1,0 +1,25 @@
+01,Teclado Logitech,15000,200,50
+02,Mouse Genius,8000,350,120
+03,Monitor Samsung 24,180000,80,20
+04,Auriculares Redragon,25000,150,40
+05,Notebook Lenovo,750000,60,15
+06,Impresora HP,210000,45,10
+07,Disco SSD 1TB,95000,120,35
+08,Memoria RAM 16GB,70000,140,50
+09,Gabinete Gamer,85000,75,25
+10,Fuente 600W,65000,90,30
+11,Webcam Logitech,30000,110,45
+12,Parlantes Genius,12000,95,20
+13,Mouse Pad XL,7000,180,60
+14,Silla Gamer,250000,40,8
+15,Placa de Video RTX 4060,950000,25,5
+16,Procesador Ryzen 5,320000,55,18
+17,Motherboard ASUS,210000,48,12
+18,Microfono USB,40000,85,22
+19,Router TP-Link,55000,70,15
+20,Pendrive 64GB,10000,250,100
+21,Disco Externo 2TB,130000,65,18
+22,Cable HDMI,5000,300,120
+23,Switch de Red,45000,35,10
+24,Tablet Samsung,280000,50,12
+25,Smart TV 50,650000,30,7
